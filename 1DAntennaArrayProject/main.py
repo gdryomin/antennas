@@ -9,7 +9,6 @@ def print_hi(name):
 
 
 def sin_calc(angle):
-    pass
     return np.sin(angle * np.pi / 180)
 
 
